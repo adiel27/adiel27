@@ -3,8 +3,7 @@
 - 🌱 I’m currently learning Java, Web and Android Apps Development
 - 💞️ I’m looking to collaborate on Android Developer, Windows Insider, 
 - 📫 How to reach me 
-- Instagram : adielfaticharrafi
-- Facebook : Adiel Rafi
+- Instagram : adieruysn27
 - Email : fatich281@gmail.com
 
 <!---
